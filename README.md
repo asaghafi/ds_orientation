@@ -13,7 +13,7 @@ Data Science Program Director
 President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA
 
-Week 1: Welcome!  
+[Week 1: Welcome!](https://github.com/asaghafi/ds_orientation/blob/master/W1%20Welcome.pptx?raw=true)
 Week 2: What is Data Science?  
 Week 3: Data Science Faculty at USciences  
 Week 4: Data Science Project  
