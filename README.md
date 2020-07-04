@@ -14,7 +14,7 @@ President of AI Global Consulting in Geosciences and Data Science, LLC
 Vice-President of International Affairs at IFNA
 
 [Week 1: Welcome!](https://github.com/asaghafi/ds_orientation/blob/master/W1%20Welcome.pptx?raw=true)  
-Week 2: What is Data Science?(https://github.com/asaghafi/ds_orientation/blob/master/W2%20What%20is%20Data%20Science.pptx?raw=true)  
+[Week 2: What is Data Science?](https://github.com/asaghafi/ds_orientation/blob/master/W2%20What%20is%20Data%20Science.pptx?raw=true)  
 Week 3: Data Science Faculty at USciences  
 Week 4: Data Science Project  
 Week 5: Data Science Process  
