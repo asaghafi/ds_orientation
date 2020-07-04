@@ -7,12 +7,8 @@ It took me some time to collect and organize the material. If you are an instruc
 Have fun!
 Abolfazl Saghafi, PhD
 
-Assistant Professor of Statistics
-
-University of the Sciences
-
-Data Science Program Director
-
-President of AI Global Consulting in Geosciences and Data Science, LLC
-
+Assistant Professor of Statistics  
+University of the Sciences  
+Data Science Program Director  
+President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA
