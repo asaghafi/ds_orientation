@@ -21,8 +21,8 @@ Week 5: Data Science Process
 Week 6: Information Literacy  
 Week 7: Academic Integrity  
 Week 8: Stress & Time Management  
-Week 9: Ethics in Data Science  
-Week 10: Presentation Skills  
+[Week 9: Ethics in Data Science](https://github.com/asaghafi/ds_orientation/blob/master/W9%20Ethics%20in%20Data%20Science.pptx?raw=true)  
+[Week 10: Presentation Skills](https://github.com/asaghafi/ds_orientation/blob/master/W10%20Presentation%20Skills.pptx?raw=true)  
 Week 11: Academic Policies  
 Week 12: Careers in Data Science  
 Week 13: USciences Co-curricular Opportunities  
