@@ -4,7 +4,7 @@ I am sharing my material for Data Science Orientation course. My mentor, Dr. Chr
 
 It took me some time to collect and organize the material. If you are an instructor, feel free to use the material in your course, please don't remove my name and credentials from the first slide, you may add yours. For students, dive in and share if you find the stuff useful.
 
-Have fun!
+Have fun!  
 Abolfazl Saghafi, PhD
 
 Assistant Professor of Statistics  
