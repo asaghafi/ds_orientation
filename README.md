@@ -13,6 +13,6 @@ Data Science Program Director
 President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA
 
-[Week 7: Regression](https://github.com/asaghafi/intro_to_datascience/blob/master/W7_Regression.pptx?raw=true) [Data & Python Codes](https://github.com/asaghafi/intro_to_datascience/blob/master/W7_CODESandDATA.zip?raw=true)  
-[Week 8: Unsupervised Learning](https://github.com/asaghafi/intro_to_datascience/blob/master/W8_UnsupervisedLearning.pptx?raw=true) [Data & Python Codes](https://github.com/asaghafi/intro_to_datascience/blob/master/W8_CODESandDATA.zip?raw=true)  
-[Week 9: Classification](https://github.com/asaghafi/intro_to_datascience/blob/master/W9_Classification.pptx?raw=true) [Data & Python Codes](https://github.com/asaghafi/intro_to_datascience/blob/master/W9_CODESandDATA.zip?raw=true)  
+[Week 7: Regression](https://github.com/asaghafi/intro_to_datascience/blob/master/W7_Regression.pptx?raw=true) [(Data & Python Codes)](https://github.com/asaghafi/intro_to_datascience/blob/master/W7_CODESandDATA.zip?raw=true)  
+[Week 8: Unsupervised Learning](https://github.com/asaghafi/intro_to_datascience/blob/master/W8_UnsupervisedLearning.pptx?raw=true) [(Data & Python Codes)](https://github.com/asaghafi/intro_to_datascience/blob/master/W8_CODESandDATA.zip?raw=true)  
+[Week 9: Classification](https://github.com/asaghafi/intro_to_datascience/blob/master/W9_Classification.pptx?raw=true) [(Data & Python Codes)](https://github.com/asaghafi/intro_to_datascience/blob/master/W9_CODESandDATA.zip?raw=true)  
