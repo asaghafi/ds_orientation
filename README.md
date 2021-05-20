@@ -1,4 +1,4 @@
-# Data Science Orientation
+# Intro to Data Science
 
 I am sharing my material for Data Science Orientation (DS 101) course. My mentor, Dr. Chris P. Tsokos, believed in "Knowledge increases by sharing", that's my motto as well. Hope students and instructors in this field find these material useful and follow this trend so we all benefit. 
 
